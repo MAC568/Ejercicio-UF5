@@ -1,0 +1,17 @@
+Factura simplificada: 
+-------------------------------------------------------
+Código: 222
+Nombre: Gigabyte B450M DS3H
+Descripción: Placa base GIGABYTE serie 400 con tecnologia AMD StoreMI
+Precio: 65.99
+
+Código: 224
+Nombre: Lenovo Ideapad 530S
+Descripción: Ordenador portÃ¡til con Intel Core i5, 8GB RAM, 256GB SSD
+Precio: 599
+
+-------------------------------------------------------
+El precio TOTAL es: 664.99€ 
+Atendido por: Mario Blue
+
+
